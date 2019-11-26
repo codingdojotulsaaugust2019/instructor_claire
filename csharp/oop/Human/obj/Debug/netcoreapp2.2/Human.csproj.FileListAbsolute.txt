@@ -1,0 +1,11 @@
+c:\Users\yueka\Documents\csharp\platform\oop\Human\obj\Debug\netcoreapp2.2\Human.csprojAssemblyReference.cache
+c:\Users\yueka\Documents\csharp\platform\oop\Human\obj\Debug\netcoreapp2.2\Human.csproj.CoreCompileInputs.cache
+c:\Users\yueka\Documents\csharp\platform\oop\Human\obj\Debug\netcoreapp2.2\Human.AssemblyInfoInputs.cache
+c:\Users\yueka\Documents\csharp\platform\oop\Human\obj\Debug\netcoreapp2.2\Human.AssemblyInfo.cs
+c:\Users\yueka\Documents\csharp\platform\oop\Human\bin\Debug\netcoreapp2.2\Human.deps.json
+c:\Users\yueka\Documents\csharp\platform\oop\Human\bin\Debug\netcoreapp2.2\Human.runtimeconfig.json
+c:\Users\yueka\Documents\csharp\platform\oop\Human\bin\Debug\netcoreapp2.2\Human.runtimeconfig.dev.json
+c:\Users\yueka\Documents\csharp\platform\oop\Human\bin\Debug\netcoreapp2.2\Human.dll
+c:\Users\yueka\Documents\csharp\platform\oop\Human\bin\Debug\netcoreapp2.2\Human.pdb
+c:\Users\yueka\Documents\csharp\platform\oop\Human\obj\Debug\netcoreapp2.2\Human.dll
+c:\Users\yueka\Documents\csharp\platform\oop\Human\obj\Debug\netcoreapp2.2\Human.pdb
